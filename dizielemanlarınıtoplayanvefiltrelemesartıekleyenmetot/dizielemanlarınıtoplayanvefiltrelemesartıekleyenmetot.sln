@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dizielemanlarınıtoplayanvefiltrelemesartıekleyenmetot", "dizielemanlarınıtoplayanvefiltrelemesartıekleyenmetot.csproj", "{A9FAAD35-BA82-4082-8524-3E56E1D38325}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9FAAD35-BA82-4082-8524-3E56E1D38325}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9FAAD35-BA82-4082-8524-3E56E1D38325}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9FAAD35-BA82-4082-8524-3E56E1D38325}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9FAAD35-BA82-4082-8524-3E56E1D38325}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B95E3DB2-FDB6-49CB-B151-9D62B274D0CA}
+	EndGlobalSection
+EndGlobal

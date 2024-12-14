@@ -1,0 +1,7 @@
+C:\Users\melih\source\repos\Recursivemetotilefibonaccidizisihesaplama\bin\Debug\Recursivemetotilefibonaccidizisihesaplama.exe.config
+C:\Users\melih\source\repos\Recursivemetotilefibonaccidizisihesaplama\bin\Debug\Recursivemetotilefibonaccidizisihesaplama.exe
+C:\Users\melih\source\repos\Recursivemetotilefibonaccidizisihesaplama\bin\Debug\Recursivemetotilefibonaccidizisihesaplama.pdb
+C:\Users\melih\source\repos\Recursivemetotilefibonaccidizisihesaplama\obj\Debug\Recursivemetotilefibonaccidizisihesaplama.csproj.AssemblyReference.cache
+C:\Users\melih\source\repos\Recursivemetotilefibonaccidizisihesaplama\obj\Debug\Recursivemetotilefibonaccidizisihesaplama.csproj.CoreCompileInputs.cache
+C:\Users\melih\source\repos\Recursivemetotilefibonaccidizisihesaplama\obj\Debug\Recursivemetotilefibonaccidizisihesaplama.exe
+C:\Users\melih\source\repos\Recursivemetotilefibonaccidizisihesaplama\obj\Debug\Recursivemetotilefibonaccidizisihesaplama.pdb
